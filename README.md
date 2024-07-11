@@ -1,7 +1,6 @@
 # Proyecto de Programación y Diseño Orientado a Objetos
 
 Este repositorio contiene las prácticas realizadas como parte de la asignatura de **Programación y Diseño Orientado a Objetos de la UGR**. Cada práctica aborda distintos aspectos del diseño y la implementación de sistemas orientados a objetos, culminando en la creación de un juego similar al Monopoly.
-Cada práctica aborda distintos aspectos del diseño y la implementación de sistemas orientados a objetos para la creación de un juego similar al Monopoly.
 
 ## Descripción de las prácticas:
 
@@ -11,4 +10,7 @@ Cada práctica aborda distintos aspectos del diseño y la implementación de sis
 - **Práctica 4:** Ampliación del sistema incluyendo conceptos de herencia y polimorfismo.
 - **Práctica 5:** Implementación de una interfaz gráfica de usuario básica siguiendo el patrón MVC, para crear un juego similar al Monopoly.
 
-Se desarrolla una GUI básica para el sistema, siguiendo el patrón de diseño MVC. Esta práctica culmina en la implementación de un juego similar al Monopoly, integrando todos los conocimientos adquiridos a lo largo del curso.
+## Tecnologías usadas:
+
+- **Lenguaje de programación:** Java
+- **Entorno de desarrollo:** NetBeans
