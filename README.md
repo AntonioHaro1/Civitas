@@ -1,6 +1,6 @@
 # Proyecto de Programación y Diseño Orientado a Objetos
 
-Este repositorio contiene las prácticas realizadas como parte de la asignatura de Programación y Diseño Orientado a Objetos de la ##UGR. 
+Este repositorio contiene las prácticas realizadas como parte de la asignatura de Programación y Diseño Orientado a Objetos de la ## UGR. 
 Cada práctica aborda distintos aspectos del diseño y la implementación de sistemas orientados a objetos para la creación de un juego similar al Monopoly.
 
 ## Descripción de las prácticas:
